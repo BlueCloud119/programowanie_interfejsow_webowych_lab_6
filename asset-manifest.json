@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/programowanie_interfejsow_webowych_lab_6/static/css/main.e706825c.chunk.css",
+    "main.js": "/programowanie_interfejsow_webowych_lab_6/static/js/main.3543cd9c.chunk.js",
+    "main.js.map": "/programowanie_interfejsow_webowych_lab_6/static/js/main.3543cd9c.chunk.js.map",
+    "runtime-main.js": "/programowanie_interfejsow_webowych_lab_6/static/js/runtime-main.9a5aa4b9.js",
+    "runtime-main.js.map": "/programowanie_interfejsow_webowych_lab_6/static/js/runtime-main.9a5aa4b9.js.map",
+    "static/js/2.fa3713f4.chunk.js": "/programowanie_interfejsow_webowych_lab_6/static/js/2.fa3713f4.chunk.js",
+    "static/js/2.fa3713f4.chunk.js.map": "/programowanie_interfejsow_webowych_lab_6/static/js/2.fa3713f4.chunk.js.map",
+    "index.html": "/programowanie_interfejsow_webowych_lab_6/index.html",
+    "static/css/main.e706825c.chunk.css.map": "/programowanie_interfejsow_webowych_lab_6/static/css/main.e706825c.chunk.css.map",
+    "static/js/2.fa3713f4.chunk.js.LICENSE.txt": "/programowanie_interfejsow_webowych_lab_6/static/js/2.fa3713f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a5aa4b9.js",
+    "static/js/2.fa3713f4.chunk.js",
+    "static/css/main.e706825c.chunk.css",
+    "static/js/main.3543cd9c.chunk.js"
+  ]
+}
